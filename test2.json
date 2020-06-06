@@ -1,0 +1,5 @@
+[
+    { "make": "Audi", "model": "Celica", "price": 35000 },
+    { "make": "BMW", "model": "Mondeo", "price": 32000 },
+    { "make": "Porsche", "model": "Boxter", "price": 72000 }
+]
