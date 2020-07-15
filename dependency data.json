@@ -1,0 +1,2 @@
+[{"projectId":31879,"gitlabUrl":"https://gitlab.dell.com/globalops/BPM/global-inventory/prism-inventory/edi-810-invoice/payment-updation-services","serviceName":"XXIAP012-Invoice-Outbound-payment-update-service","oracle":"Yes","mongocollection":"xxiap034_EInvoice_Logger",
+"kafka":"GOBIG.ACKNACK.FINGW.APINVPAY.PRISM.P2.R3"
